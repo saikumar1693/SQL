@@ -1,4 +1,4 @@
-# About my project on SQL
+# SQL Project
 
 📘 Project Overview
 This project simulates a real-world airline booking and ticketing system using a relational database schema. It focuses on analyzing flight, passenger, and sales-related data through complex SQL queries, delivering actionable business insights.
